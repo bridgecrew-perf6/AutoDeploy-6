@@ -10,6 +10,8 @@ namespace AutoDeploy
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Auto Deploy");
+            Console.ReadKey();
         }
     }
 }
